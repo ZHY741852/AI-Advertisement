@@ -90,7 +90,7 @@ app/src/main/java/com/aiadvertisement/
 
 ```bash
 # 1. 克隆仓库
-git clone <your-repo-url>
+git clone https://github.com/ZHY741852/AI-Advertisement.git
 cd AI-Advertisement
 
 # 2. 配置 API Key（可选，不影响核心功能使用）
@@ -143,7 +143,13 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ## 演示视频
 
-> 请将演示视频（3-8 分钟）放在本仓库根目录下，命名为 `demo.mp4`
+演示视频（`ai广告演示.mp4`）位于本仓库根目录，展示了：
+
+1. **信息流浏览**：7 个频道切换、大图/小图/视频卡片混排
+2. **下拉刷新**：点击标题栏刷新按钮加载最新推荐
+3. **AI 摘要与标签**：每条广告自动生成摘要文案与分类标签
+4. **详情互动**：点击卡片进入详情页，视频继续播放，查看完整信息
+5. **AI 对话搜索**：自然语言输入，智能推荐匹配广告
 
 ## 文档索引
 
