@@ -10,3 +10,7 @@
 local.properties
 *.apk
 *.aab
+app/build/
+*.dex
+*.log
+logs.txt
