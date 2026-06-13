@@ -1,0 +1,1 @@
+﻿06-14 04:56:36.288 22313 22362 D OplusScrollToTopManager: com.aiadvertisement/com.aiadvertisement.ui.MainActivity,This com.android.internal.policy.DecorView{8db8cfc V.E...... R....... 0,0-1264,2780 aid=0 alpha=1.0 viewInfo = }[MainActivity] change focus to true
